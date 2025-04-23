@@ -26,7 +26,7 @@
   </a>
 
   <a href="mailto:juandauberte@gmail.com">
-    <img src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -88,7 +89,7 @@
 <!--profile visit count-->
 
 <div align="center">
-   <p>Gracias por tu visita !</p> 
+   <h3>Gracias por tu visita!</h3> 
   <img src="https://profile-counter.glitch.me/juancruzdauberte/count.svg" align="center" />
 </div>
 
