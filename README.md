@@ -62,6 +62,21 @@
 
 <br>
 
+## 🚀 Proyectos
+<div align="center"> 
+<table> 
+  <tr> 
+    <td> 
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; width:250px; margin:10px"> <img src="https://res.cloudinary.com/dttpgbmdx/image/upload/v1754500072/Screenshot_3_xi7may.png" alt="Como En Casa" width="100%" style="border-radius: 10px;"> <h3>Como En Casa</h3> <p style="font-size: 14px;">Desarrollé un software web de gestión, control y administración de pedidos y finanzas para una rotisería lamada Como En Casa ubicada en Baradero, Pcia. de Buenos Aires. La plataforma permite a dichos usuarios predefinidos en la base de datos la autenticación y autorización mediante OAuth2, JWT y Cookies la gestión y control de sus pedidos y finanzas.</p> 
+        <a href="https://como-en-casa-front.vercel.app/login" target="_blank">🔗 Ver proyecto</a> 
+      </div> 
+    </td>
+
+</tr>
+</table> </div>
+
+<br>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 
