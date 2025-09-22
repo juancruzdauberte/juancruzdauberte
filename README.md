@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/dttpgbmdx/image/upload/v1758550061/github-header-banner_kwb8sp.png"  />
+  <img height="300" src="https://res.cloudinary.com/dttpgbmdx/image/upload/v1758550061/github-header-banner_kwb8sp.png"  />
 </div>
 
 ###
