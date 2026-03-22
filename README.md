@@ -33,7 +33,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-<p align="left">📚 Actualmente me encuentro estudiando la Licenciatura en Informática, cursando 4to año en la Universidad Nacional San Antonio de Areco. También estoy realizando diplomaturas en Ciencia y Análisis de Datos en la Universidad de Buenos Aires y en la Universidad Nacional de San Martín<br>🧑‍💻 Me especializo en el desarrollo de softwares y en el análisis de datos<br>💥 Podes visitar <a href='https://portfolio-two-zeta-37.vercel.app/' target="_blank">MI PORTAFOLIO</a> para saber un poco mas sobre mi<br>📧 Contactame por <a href='mailto:juandauberte@gmail.com' target="_blank">aquí</a></p>
+<p align="left">📚 Actualmente me encuentro estudiando la Licenciatura en Informática, cursando 4to año en la Universidad Nacional San Antonio de Areco. También estoy realizando diplomaturas en Ciencia y Análisis de Datos en la Universidad de Buenos Aires y en la Universidad Nacional de San Martín<br>🧑‍💻 Me especializo en el desarrollo de softwares y en el análisis de datos<br>💥 Podes visitar <a href='https://portfolio-two-zeta-37.vercel.app/' target="_blank">MI PORTAFOLIO</a> para saber un poco mas sobre mi<br>📧 Contactame por <a href='mailto:juandauberte@gmail.com' target="_blank">AQUÍ</a></p>
 
 ###
 
